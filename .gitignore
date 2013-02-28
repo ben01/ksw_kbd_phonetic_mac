@@ -1,0 +1,2 @@
+# don't track the compiled bundle
+*.bundle
